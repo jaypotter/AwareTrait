@@ -1,0 +1,2 @@
+# AwareTrait
+PHP Aware Trait
